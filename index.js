@@ -141,18 +141,6 @@ const questions = () => {
         ]
     );
 }
-// const mockData = 
-//     {
-//         title: 'Portfolio Generator',
-//         description: 'It is an application that generates professional portfolio',
-//         installation: 'oau;hohvrhorhvoehvouehveuohveuoh',
-//         usage: 'oirghhoehhbbrhrhborthborhbruhb',
-//     license: ['hameed Apache 2.0'],
-//         contribution: 'iurufhrfhrviehahuorhfou ouhrfhwrfhrfheauh fouhfuheufeuhfeaouhf oahfouh ahfoahfou',
-//         test: 'uahfoahfijhfiwhfuh fowhrfwhfhwr iwrihfuwhrf;ijr fhfuwhf',
-//         githubName: 'hameed1239',
-//         email: 'hameed.kazeem@gmail.com'
-//     }
 
 // function to write README file
 function writeToFile(fileName, data) {
@@ -186,7 +174,7 @@ function init() {
         .catch(err => {
             console.log(err);
     })
-    //writeToFile("./dist/README.md",generateMarkdown(mockData));
+    
 }
 
 // function call to initialize program

@@ -4,7 +4,7 @@
 
   ![NPM](https://img.shields.io/badge/license-Mozilla%20Public%20License%202.0-<green>) ![NPM](https://img.shields.io/badge/JavaScript-80%-<green>) ![NPM](https://img.shields.io/badge/Markdown-20%-<green>) ![NPM](https://img.shields.io/github/followers/hameed1239?style=social) ![NPM](https://img.shields.io/github/forks/hameed1239/readme-generator?style=social)
   ## Description
-  It is an application that generates professional looking Readme.md files
+ This is an application that helps generate professional looking Readme file for any project you might be working on. It does this by asking a series of questions that is used to populate your README.md file. 
 
   ## Table of Contents
   * [Installation](#installation)
@@ -15,7 +15,7 @@
   * [Questions](#questions)
 
   ## Installation
-  You would start by Forking this repository, then you would install node.js
+  You would start by Forking this repository, then you would install node.js if you don't already have it. Open the project from the root directory. You would need to install inquirer by running this command "npm install inquirer" in the project terminal
 
   ## Usage
   This Application should only be used to create README.md file for a project. You may not sell this application
@@ -34,4 +34,3 @@
   [hameed1239](https://github.com/hameed1239)
   You can also contact me via email @ hameeddecoder@gmail.com
 
-This is an application that helps generate professional looking Readme file for any project you might be working on. It does this by asking a series of questions that is used to populate your README.md file. 
