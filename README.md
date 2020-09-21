@@ -2,7 +2,7 @@
 
 # Readme Generator
 
-  ![NPM](https://img.shields.io/badge/license-MIT-<green>) ![NPM](https://img.shields.io/badge/JavaScript-80%-<green>) ![NPM](https://img.shields.io/badge/Markdown-20%-<green>) ![NPM](https://img.shields.io/github/followers/hameed1239?style=social) ![NPM](https://img.shields.io/github/forks/hameed1239/readme-generator?style=social)
+  ![ NPM](https://img.shields.io/badge/license-MIT-<green>) ![ NPM](https://img.shields.io/github/languages/top/hameed1239/readme-generator) ![ NPM](https://img.shields.io/github/followers/hameed1239?style=social) ![NPM](https://img.shields.io/github/forks/hameed1239/readme-generator?style=social)
   ## Description
  This is an application that helps generate professional looking Readme file for any project you might be working on. It does this by asking a series of questions from the command line that is used to populate your README.md file. 
 
